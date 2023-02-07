@@ -12,4 +12,4 @@ I'm Vera!
 
 🤓 I'm studying Software Development with Northcoders and looking forward to having a tech career! 
 
-👨‍👩‍👦‍👦 I'm a mum of 2 boys, chocolate🍫 and pasta🍝 lover, nature🌿 addicted and movies & TV shows geek 🎬. 
+👨‍👩‍👦‍👦 I'm a mum of 2 boys, chocolate🍫 and pasta🍝 lover, nature addicted🌿 and movies & TV shows geek 🎬. 
