@@ -18,3 +18,9 @@ I'm Vera!
 * chocolate🍫 and pasta🍝 lover 
 * nature addicted 🌿 
 * movies & TV shows geek 🎬 
+
+---------------
+
+### Portfolio
+
+Get to know me and my work here -> https://vera-ferreira.netlify.app/
