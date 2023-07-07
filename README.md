@@ -23,4 +23,4 @@ I'm Vera!
 
 ### Portfolio
 
-Get to know me and my work here -> https://vera-ferreira.netlify.app/
+Get to know more about me and my work here -> https://vera-ferreira.netlify.app/
