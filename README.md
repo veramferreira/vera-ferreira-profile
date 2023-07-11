@@ -11,7 +11,7 @@ I'm Vera!
 
 💻 Left nursing to work with Social Media and WordPress websites 
 
-🤓 I'm **studying Software Development with Northcoders** and looking forward to having a career in tech! 
+🤓 I'm a junior software developer with a passion for frontend
 
 ###### Facts about me:
 * busy mum of 2 boys 👨‍👩‍👦‍👦  
